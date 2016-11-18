@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Alex-Rahul-Test-for-track-and-plan
+  host: Alex-Rahul-Test-for-track-and-plan
+  disk_quota: 1024M
